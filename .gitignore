@@ -1,0 +1,7 @@
+visualizer/
+algorithm/cache
+algorithm/dump.py
+algorithm/__pycache__
+algorithm_back/
+map_previews/
+map_data
