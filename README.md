@@ -1,6 +1,6 @@
 # A*-OSM
 
-In this repo, I have implemented a simple algorithm to clone the behavior of google map.
+In this repo, I have implemented a simple algorithm to clone the behavior of google maps.
 
 The algorithms and data structures used in the implementation:
     - A* algorithm to find the shortest path between source and destination
