@@ -1,4 +1,4 @@
-# Google Maps clone 
+# A*-OSM
 
 In this repo, I have implemented a simple algorithm to clone the behavior of google map.
 
