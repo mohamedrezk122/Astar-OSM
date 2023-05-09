@@ -5,10 +5,10 @@ In this repo, I have implemented a simple algorithm to clone the behavior of goo
 The algorithms and data structures used in the implementation:
     - A* algorithm to find the shortest path between source and destination
     - Priority Queue implemented with min-heap. 
-    - Kd-Tree with naive sorting median finding with O(nlog^2n) with default python tim sort algorithm (O(nlogn)).
-    - median of medians algorithm with both randomized (average O(n)) and deterministic(O(n)) approaches to speed 
-        up kd-tree formation formally in O(nlog(n)).
-    - K-nearest-neighbors algorithm for querying a point from the dataset in O(logn).
+    - Kd-Tree with naive sorting median finding with $O(nlog^2n)$ with default python tim sort algorithm ($O(nlogn)$).
+    - median of medians algorithm with both randomized (average $O(n)$) and deterministic($O(n)$) approaches to speed 
+        up kd-tree formation formally in $O(nlog(n))$.
+    - K-nearest-neighbors algorithm for querying a point from the dataset in $O(logn)$.
 
 ## fetching and pre-processing map data
 - use `fetch_map_from_bounding_box` function to download an OSM/xml file containing map/graph data given a bounding box 
