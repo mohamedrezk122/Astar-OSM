@@ -24,7 +24,7 @@ in the dataset (map file), so the naive approach is O(n) searching over the data
 
 ## Samples
 
-I used these coordinates both with open street maps(right) and my algorithm(right) 
+I used these coordinates both with open street maps(right) and my algorithm(left) 
 ```py
 start = (30.3243732 , 31.6886483) 
 goal  = (30.3569825 , 31.7031567)
